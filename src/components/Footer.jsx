@@ -26,7 +26,7 @@ const Footer = () => {
                             <a href="/" className='text-[17px] hover:underline mx-3 block'>Update Request</a>
                         </li>
                         <li>
-                            <a href="/" className='text-[17px] hover:underline mx-3 block block'>Contact Us</a>
+                            <a href="/" className='text-[17px] hover:underline mx-3 block'>Contact Us</a>
                         </li>
                         <li>
                             <a href="/" className='text-[17px] hover:underline mx-3 block'>Services</a>
